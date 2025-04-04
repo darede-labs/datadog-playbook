@@ -48,4 +48,4 @@ Estão incluídos em [`docs/imagens/`](docs/imagens/) para apoio visual.
 
 ## ✍️ Autor
 
-Criado por [Jean Franco]. Contribuições são bem-vindas!
+Criado por Jean Franco. Contribuições são bem-vindas!

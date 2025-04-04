@@ -24,8 +24,8 @@ Cada pasta representa um "capítulo" independente com:
 git clone https://github.com/seunome/datadog-playbook.git
 cd datadog-playbook
 
-# Navegue até o guia desejado
-cd aurora-mysql-dbm
+# Navegue até o guia desejado. Exemplo:
+cd aurora-mysql-db
 ```
 
 ---
